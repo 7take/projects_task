@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #6c6b6b;
+}
+header {
+  width: 100%;
+  height: 800px;
+  text-align: center;
+}
+/* クラス名headerのタグ内のh1にのみ適応される */
+.main-visual {
+  width: 100%; /* 横幅 */
+  height: 200px; /* 高さ */
+  background-image: url(img/box1.jpg);
+  background-size: cover; /* 縦横比を維持したまま背景領域を埋め尽くす */
+  background-position: center; /* 背景画像を中央に配置 */
+}
+.main-visual2 {
+  width: 100%; /* 横幅 */
+  height: 200px; /* 高さ */
+  background-image: url(img/mv.jpg);
+  background-size: cover; /* 縦横比を維持したまま背景領域を埋め尽くす */
+  background-position: center; /* 背景画像を中央に配置 */
+}
+.main-visual3 {
+  width: 100%; /* 横幅 */
+  height: 200px; /* 高さ */
+  background-image: url(img/mv.jpg);
+  background-size: cover; /* 縦横比を維持したまま背景領域を埋め尽くす */
+  background-position: center; /* 背景画像を中央に配置 */
+}
+.main-visual4 {
+  width: 100%; /* 横幅 */
+  height: 200px; /* 高さ */
+  background-image: url(img/mv.jpg);
+  background-size: cover; /* 縦横比を維持したまま背景領域を埋め尽くす */
+  background-position: center; /* 背景画像を中央に配置 */
+}
